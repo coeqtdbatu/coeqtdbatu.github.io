@@ -8,7 +8,7 @@ We are studying how climate risk impacts the cost of carbon dioxide emissions.
 
 | ![Optimal paths](/images/figures/11-14-2022-pref-runs.png) |
 |:--:| 
-| *Figure taken from an in-prep manuscript by CDDS@UIUC.* |
+| *Figure taken from Bauer et al., 2023.* |
 
 ## Group members involved
 [Adam Bauer](https://cdds-at-uiuc.github.io/team/adam-bauer/)
