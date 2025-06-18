@@ -8,6 +8,6 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Climate Dynamics and Data Science at UIUC
+#  Center of Excellence in Quantum Technologies at Dr. Babasaheb Ambedkar Technological University
 
-Paricipating in the National Mission on Quantum Technology
+Participating in the National Mission on Quantum Technology
