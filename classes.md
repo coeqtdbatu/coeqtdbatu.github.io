@@ -7,6 +7,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Classes taught by Cristi
+# Courses offered by the Center
 
-Each of the classes below are taught, or have been taught, by Cristi. Email him if you have any questions or want more information! 
+We offer all the courses in the Minor Degree of Quantum Technologies prescibed by All India Council of Technical Education
