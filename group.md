@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: false
 
 # Meet Our Group!
 
-We are a diverse, motivated group of scientists, all focused on tackling the problem of climate change from a variety of angles.
+We are a  motivated group of faculty members, PhD, post-graduate, and undergraduate students interested in research and application of quantum technologies 
