@@ -11,7 +11,7 @@ main:
   - name: "Events"
     url: "/events/"
     weight: 5
-  - name: "Classes"
+  - name: "Courses"
     url: "/classes/"
     weight: 6
   - name: "Contact"
