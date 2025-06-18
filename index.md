@@ -8,6 +8,6 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-#  Center of Excellence in Quantum Technologies at Dr. Babasaheb Ambedkar Technological University
+#  Centre of Excellence in Quantum Technologies
 
-Participating in the National Mission on Quantum Technology
+ at Dr. Babasaheb Ambedkar Technological University
