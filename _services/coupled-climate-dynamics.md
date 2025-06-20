@@ -1,10 +1,10 @@
 ---
-title: "Coupled climate dynamics"
+title: " Introduction Quantum Computing  (QC101)"
 date: 2022-10-7T12:33:46+10:00
 weight: 1
 ---
 
-Atmosphere, oceans, biomass, glaciers and land surface as interacting components of the dynamics of global climate.
+[An Introductory course on Quantum Computing](https://akiwelekar.github.io/qc101/)
 
 | ![Pattern effect](/images/figures/enso_ssta_2015-2016.png) |
 |:--:| 
