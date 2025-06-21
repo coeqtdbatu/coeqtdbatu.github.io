@@ -11,13 +11,12 @@ weight: 2
 ---
 Prof Dr. S L Nalbalwar is Dean (Faculty of Engineering and Technology) with  his rich experience in academics and research he is mentoring the activities of CoE-QT.
 
-**Email:** slnalbalwar [at]  dbatu [dot] ac [dot] in
+**Email:** slnalbalwar [at]  dbatu [dot] ac [dot] in 
 
-**CV**: [Link (last updated 1/9/2023)](/cvs/Bauer_CV.pdf)
-
-**Website:** [Link][(https://dbatu.ac.in/dr-sanjay-l-nalbalwar/)]
+**Website:** [Link][(https://dbatu.ac.in/dr-sanjay-l-nalbalwar/)
 
 **LinkedIn**: [Link](https://www.linkedin.com/in/dr-sanjay-nalbalwar/?originalSubdomain=in)
+
 **Google Scholar Profile:** [Link](https://scholar.google.co.in/citations?user=PUECsiAAAAAJ&hl=en)
 
 **Pronouns**: He/Him
