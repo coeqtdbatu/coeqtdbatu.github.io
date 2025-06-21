@@ -9,7 +9,7 @@ weight: 2
 ---
 
 ---
-## Quick hitters
+Prof Dr. S L Nalbalwar is Dean (Faculty of Engineering and Technology) with  his rich experience in academics and research he is mentoring the activities of CoE-QT.
 
 **Email:** slnalbalwar [at]  dbatu [dot] ac [dot] in
 
