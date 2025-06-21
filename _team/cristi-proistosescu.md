@@ -1,7 +1,7 @@
 ---
 title: "Honorary Colonel Professor (Dr.) Karbhari Kale"
 date: 2018-11-19T10:47:58+10:00
-image: "images/team/cristi.png"
+image: "images/team/kvkale.jpeg"
 jobtitle: "Chief Advisor"
 cvlink: "https://dbatu.ac.in/drkarbhari/"
 promoted: true
