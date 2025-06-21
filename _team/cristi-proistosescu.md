@@ -11,7 +11,7 @@ weight: 1
 Dr. Karbhari Kale is a distinguished researcher in Geo-spatial Data Analysis and Vice-Chancellor of Dr. Babasaheb Ambedkar Technological University.
 
 ---
-## Quick hitters
+ 
 
 **Email:** vc [at] dbatu [dot] ac [dot] in
 
