@@ -15,13 +15,13 @@ weight: 2
 
 **CV**: [Link (last updated 1/9/2023)](/cvs/Bauer_CV.pdf)
 
-**Website:** [www.ambauer.com](https://www.ambauer.com/)
+**Website:** [Link][(https://dbatu.ac.in/dr-sanjay-l-nalbalwar/)]
 
-**LinkedIn**: [https://www.linkedin.com/in/adam-michael-bauer-380492200/](https://www.linkedin.com/in/adam-michael-bauer-380492200/)
+**LinkedIn**: []((https://www.linkedin.com/in/dr-sanjay-nalbalwar/?originalSubdomain=in))
 
-**ORCID:** [0000-0002-7471-8934](https://orcid.org/0000-0002-7471-8934)
+**Google Scholar Profile:** [Link](https://scholar.google.co.in/citations?user=PUECsiAAAAAJ&hl=en)
 
-**Pronouns**: he/him
+**Pronouns**: He/Him
 
 ---
 ## Bio
