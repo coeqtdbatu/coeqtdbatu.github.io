@@ -17,8 +17,7 @@ weight: 2
 
 **Website:** [Link][(https://dbatu.ac.in/dr-sanjay-l-nalbalwar/)]
 
-**LinkedIn**: [Link]((https://www.linkedin.com/in/dr-sanjay-nalbalwar/?originalSubdomain=in))
-
+**LinkedIn**: [Link](https://www.linkedin.com/in/dr-sanjay-nalbalwar/?originalSubdomain=in)
 **Google Scholar Profile:** [Link](https://scholar.google.co.in/citations?user=PUECsiAAAAAJ&hl=en)
 
 **Pronouns**: He/Him
