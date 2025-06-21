@@ -13,7 +13,7 @@ Prof Dr. S L Nalbalwar is Dean (Faculty of Engineering and Technology) with  his
 
 **Email:** slnalbalwar [at]  dbatu [dot] ac [dot] in 
 
-**Website:** [Link][(https://dbatu.ac.in/dr-sanjay-l-nalbalwar/)
+**Website:** [Link](https://dbatu.ac.in/dr-sanjay-l-nalbalwar/)
 
 **LinkedIn**: [Link](https://www.linkedin.com/in/dr-sanjay-nalbalwar/?originalSubdomain=in)
 
